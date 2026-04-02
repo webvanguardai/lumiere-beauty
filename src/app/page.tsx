@@ -476,7 +476,7 @@ export default function Home() {
         href={WHATSAPP_URL}
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-6 right-6 z-50 bg-[#25D366] hover:bg-[#20BD5A] w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-colors"
+        className="fixed bottom-6 right-6 z-50 bg-[#C9956B] hover:bg-[#B8845A] w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-colors"
         aria-label="Chat on WhatsApp"
       >
         <svg
