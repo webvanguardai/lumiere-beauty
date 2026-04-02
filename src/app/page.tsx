@@ -44,11 +44,11 @@ const services = [
 
 const gallery = [
   {
-    src: "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=600&h=400&fit=crop",
+    src: "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=600photo-1595476108010-b4d1f102b1b1?w=600&h=400&fit=croph=400photo-1595476108010-b4d1f102b1b1?w=600&h=400&fit=cropfit=crop",
     alt: "Luxury salon interior",
   },
   {
-    src: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=600&h=400&fit=crop",
+    src: "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?w=600&h=400&fit=crop",
     alt: "Hair styling session",
   },
   {
@@ -56,15 +56,15 @@ const gallery = [
     alt: "Beautiful hair result",
   },
   {
-    src: "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=600&h=400&fit=crop",
+    src: "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=600&h=400&fit=crop",
     alt: "Nail art design",
   },
   {
-    src: "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=600&h=400&fit=crop",
+    src: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=400&fit=crop",
     alt: "Salon ambiance",
   },
   {
-    src: "https://images.unsplash.com/photo-1457972729786-0411a3b2b626?w=600&h=400&fit=crop",
+    src: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&h=400&fit=crop",
     alt: "Beauty treatment",
   },
 ];
@@ -123,7 +123,7 @@ export default function Home() {
       <section className="relative min-h-screen flex items-center pt-20">
         <div className="absolute inset-0">
           <Image
-            src="https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1920&h=1080&fit=crop"
+            src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1920&h=1080&fit=crop"
             alt="Luxury beauty salon interior"
             fill
             className="object-cover"
